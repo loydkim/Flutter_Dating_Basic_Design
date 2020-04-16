@@ -1,5 +1,8 @@
 # Dating basic design
 
+
+<img src="https://github.com/loydkim/Flutter_Dating_Basic_Design/blob/master/datingapp_gif.gif" width="300" height="500">
+
 Code Explain movie:
 
 [![Youtube](https://img.youtube.com/vi/gd6CpJBcwiE/0.jpg)](https://youtu.be/gd6CpJBcwiE)
