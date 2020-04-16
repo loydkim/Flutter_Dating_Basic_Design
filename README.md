@@ -2,6 +2,16 @@
 
 A new Flutter application.
 
+* Develop environment.
+
+- Xcode Version: 11.4
+- Android Studio: 3.5
+- OS Version: MacOS Catalina 10.15.4
+
+Thank you for watching :)
+
+#Flutter, #ChatApp, #Design
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
